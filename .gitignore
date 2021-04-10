@@ -1,5 +1,4 @@
 # Project exclude paths
 /node_modules/
-/scripts/Cell.js
-/app.js
-/renderer.js
+*.js
+*.css.map
