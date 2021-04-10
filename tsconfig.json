@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es5",
+    "sourceMap": false, // to avoid warnings in console
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  },
+  "exclude": [
+    "node_modules",
+    "assets",
+    "fonts",
+    "sources.ts"
+  ]
+}

@@ -1,0 +1,28 @@
+/*  Signika  */
+@font-face {
+  font-family: "Signika";
+  font-weight: 300;
+  src: url("signika/Signika-Light.ttf");
+}
+@font-face {
+  font-family: "Signika";
+  font-weight: 400;
+  src: url("signika/Signika-Regular.ttf");
+}
+@font-face {
+  font-family: "Signika";
+  font-weight: 500;
+  src: url("signika/Signika-Medium.ttf");
+}
+@font-face {
+  font-family: "Signika";
+  font-weight: 600;
+  src: url("signika/Signika-SemiBold.ttf");
+}
+@font-face {
+  font-family: "Signika";
+  font-weight: 700;
+  src: url("signika/Signika-Bold.ttf");
+}
+
+/*# sourceMappingURL=fonts.css.map */

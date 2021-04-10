@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link href="style.css" rel="stylesheet"/>
+        <link href="fonts/fonts.css" rel="stylesheet"/>
+        <title>Weird Playground</title>
+    </head>
+    <body>
+        <main>
+            <h1>Weird Playground <a id="github-link" target="_blank">By Angelo</a></h1>
+            <canvas></canvas>
+            <div id="materials">
+                <div class="choice" id="m0">Empty</div>
+                <div class="choice active" id="m1">Solid</div>
+                <div class="choice" id="m2">Sand</div>
+                <div class="choice" id="m5">Water</div>
+            </div>
+            <div id="sizes">
+                <div class="choice" id="s1">XS</div>
+                <div class="choice active" id="s2">SM</div>
+                <div class="choice" id="s3">MD</div>
+                <div class="choice" id="s4">LG</div>
+                <div class="choice" id="s5">XL</div>
+            </div>
+            <p id="repo-link">Github</p>
+            <p id="version">v0.1.0</p>
+        </main>
+        <script>const exports = module.exports;</script>
+        <script src="renderer.js" type="module"></script>
+    </body>
+</html>
