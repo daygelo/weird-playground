@@ -1,4 +1,4 @@
 # Weird Playground
-A weird playground of pixel and different materials.
+A *weird* pixel playground.
 Made with **Typescript** and **Electron** by Angelo.
 Inspired by [sandspiel](https://sandspiel.club).
